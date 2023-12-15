@@ -1,3 +1,3 @@
 # Simulador de Ruleta
 
-### Puedes modificar la apuesta, el saldo inicial y el numero de partidas simuladas
+### Puedes modificar la Apuesta, el Saldo Inicial y el Numero de Partidas Simuladas
