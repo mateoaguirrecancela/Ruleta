@@ -78,7 +78,7 @@ while partidas!=0:
             continue
 
         #Color
-        if resultado==1 or resultado==3 or resultado==5 or resultado==7 or resultado==9 or resultado==12 or resultado==14 or resultado==16 or resultado==18 or resultado==19 or resultado==21 or resultado==23 or resultado==25 or resultado==27 or resultado==30 or resultado==32 or resultado==34 or resultado==36:
+        if (0<resultado<11 and resultado%2==1) or (10<resultado<19 and resultado%2==0) or (18<resultado<29 and resultado%2==1) or (28<resultado<37 and resultado%2==0):
             ganado=ganado+rojo*2
         else:
             ganado=ganado+negro*2
