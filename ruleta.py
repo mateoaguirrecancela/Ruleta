@@ -34,9 +34,9 @@ fila2=0
 fila3=0
 
 #Numero de tiradas simuladas
-tiradasInicio=10000
+tiradasInicio=1000
 #Saldo total
-saldoInicio=50
+saldoInicio=20
 
 #Partidas
 partidas=5
